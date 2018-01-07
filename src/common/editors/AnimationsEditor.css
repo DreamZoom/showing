@@ -1,0 +1,15 @@
+.sui-animates-editor{
+	border: solid 1px #EEEEEE;
+	padding: 10px;
+}
+.sui-button-delete-animate{
+	float: right;
+	color: red;
+}
+.sui-animation-actions{
+padding: 5px;
+text-align: center;
+}
+.sui-animation-actions button{
+margin: 5px;
+}
